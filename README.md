@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER PRINCIPAL (Asegúrate de que la imagen esté subida en la raíz de tu repo) -->
-  <img src="./Gemini_Generated_Image_2cn0s22cn0s22cn0.jfif" alt="Jhonny Solorzano - Ingeniero en Sistemas" width="100%" />
+  <img src="./banner.jfif" alt="Jhonny Solorzano - Ingeniero en Sistemas" width="100%" />
 
   <br/><br/>
 
